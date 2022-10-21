@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_U0mwAVETEe2N2OdYGCLNLQ" label="test_connection" description="" language="java" technicalLabel="TEST_CONNECTION" author="_U0mwAlETEe2N2OdYGCLNLQ" productVersion="Talend Data Integration-7.3.1.20220628_0845-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/eventasSAN/test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+    <migrationTask xmi:id="_U209kFETEe2N2OdYGCLNLQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_U0mwAlETEe2N2OdYGCLNLQ" login="developer1@sam.com" firstName="Developer1" lastName="Developer1" type="DI" additionnalData="{}"/>
+</xmi:XMI>
